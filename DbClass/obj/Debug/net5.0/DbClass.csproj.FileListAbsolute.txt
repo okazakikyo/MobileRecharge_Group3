@@ -1,0 +1,12 @@
+C:\Users\AD\Desktop\STU\Aptech\Semi3\E-Project\Project_MobileR\MobileRecharge\DbClass\bin\Debug\net5.0\DbClass.deps.json
+C:\Users\AD\Desktop\STU\Aptech\Semi3\E-Project\Project_MobileR\MobileRecharge\DbClass\bin\Debug\net5.0\DbClass.dll
+C:\Users\AD\Desktop\STU\Aptech\Semi3\E-Project\Project_MobileR\MobileRecharge\DbClass\bin\Debug\net5.0\ref\DbClass.dll
+C:\Users\AD\Desktop\STU\Aptech\Semi3\E-Project\Project_MobileR\MobileRecharge\DbClass\bin\Debug\net5.0\DbClass.pdb
+C:\Users\AD\Desktop\STU\Aptech\Semi3\E-Project\Project_MobileR\MobileRecharge\DbClass\obj\Debug\net5.0\DbClass.csproj.AssemblyReference.cache
+C:\Users\AD\Desktop\STU\Aptech\Semi3\E-Project\Project_MobileR\MobileRecharge\DbClass\obj\Debug\net5.0\DbClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AD\Desktop\STU\Aptech\Semi3\E-Project\Project_MobileR\MobileRecharge\DbClass\obj\Debug\net5.0\DbClass.AssemblyInfoInputs.cache
+C:\Users\AD\Desktop\STU\Aptech\Semi3\E-Project\Project_MobileR\MobileRecharge\DbClass\obj\Debug\net5.0\DbClass.AssemblyInfo.cs
+C:\Users\AD\Desktop\STU\Aptech\Semi3\E-Project\Project_MobileR\MobileRecharge\DbClass\obj\Debug\net5.0\DbClass.csproj.CoreCompileInputs.cache
+C:\Users\AD\Desktop\STU\Aptech\Semi3\E-Project\Project_MobileR\MobileRecharge\DbClass\obj\Debug\net5.0\DbClass.dll
+C:\Users\AD\Desktop\STU\Aptech\Semi3\E-Project\Project_MobileR\MobileRecharge\DbClass\obj\Debug\net5.0\ref\DbClass.dll
+C:\Users\AD\Desktop\STU\Aptech\Semi3\E-Project\Project_MobileR\MobileRecharge\DbClass\obj\Debug\net5.0\DbClass.pdb
